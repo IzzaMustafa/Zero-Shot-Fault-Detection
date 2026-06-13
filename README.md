@@ -28,10 +28,13 @@ The model is trained exclusively on source domains (Valve, Pump, Fan) and tested
 | Slider (Unseen) | **0.8099** |
 
 ### ROC Curve
+![ROC Curve](results/plots/roc_slider.png)
 
 ### Score Distribution
+![Score Distribution](results/plots/scores_slider.png)
 
 ### Training Loss
+![Training Loss](results/plots/training_loss.png)
 
 ## 🔬 Ablation Study
 
